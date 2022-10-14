@@ -11,5 +11,5 @@
 2.다양한 카테고리를 나눠 원하는 내용의 글만 보기
 3.익명,좋아요 기능:+1:
 
-#내 github주소
+# 내 github주소
 [Github pages](https://github.com/yongsansam/20223085_opensource/edit/main)
